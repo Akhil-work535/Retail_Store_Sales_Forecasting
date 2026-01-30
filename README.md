@@ -58,7 +58,10 @@ Developed an interactive Power BI dashboard to support business users, featuring
 - Actual vs Forecast sales comparison  
 - Store-wise weekly sales trends  
 - Seasonal and holiday impact analysis  
-- KPI cards for forecast accuracy and demand trends  
+- KPI cards for forecast accuracy and demand trends
+- Used MySQL to aggregate weekly sales into monthly and store-level KPIs
+- Performed holiday vs non-holiday sales analysis using SQL
+- Built an Excel dashboard with sales KPIs and trend analysis for business reporting 
 
 ## 🧰 Tools & Technologies
 - **Python:** pandas, numpy, matplotlib  
